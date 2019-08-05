@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. First thing
+2. Second thing
+3. Third thing
+
+* Bullet one
+  * Bullet sub one
+* Bullet two
